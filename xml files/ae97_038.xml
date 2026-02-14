@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<file_name>ae97_038</file_name>
+		<Segm_Area1>11-40</Segm_Area1>
+		<Segm_Area2>84-194</Segm_Area2>
+		<Segm_Area3>160-195</Segm_Area3>
+		<Segm_Area4>237-260</Segm_Area4>
+		<Segm_Area5>269-364</Segm_Area5>
+		<Segm_Area6>393-404</Segm_Area6>
+		<Segm_Area7>442</Segm_Area7>
+		<Segm_Area8>472-578</Segm_Area8>
+	</record>
+	<record/>
+</root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<file_name>ae53_046</file_name>
+		<Segm_Area1>38-66</Segm_Area1>
+		<Segm_Area2>104-128</Segm_Area2>
+		<Segm_Area3>141-172</Segm_Area3>
+		<Segm_Area4>217-247</Segm_Area4>
+		<Segm_Area5>261-274</Segm_Area5>
+		<Segm_Area6>287-352</Segm_Area6>
+		<Segm_Area7>452-464</Segm_Area7>
+		<Segm_Area8>502-527</Segm_Area8>
+		<Segm_Area9>537-564</Segm_Area9>
+	</record>
+	<record/>
+</root>

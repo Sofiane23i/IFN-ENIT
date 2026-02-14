@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+    <folder>images</folder>
+    <filename>af01_004.jpg</filename>
+    <size>
+        <width>201</width>
+        <height>72</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>2</ymin>
+            <xmax>61</xmax>
+            <ymax>71</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>101</xmin>
+            <ymin>0</ymin>
+            <xmax>123</xmax>
+            <ymax>71</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>163</xmin>
+            <ymin>0</ymin>
+            <xmax>200</xmax>
+            <ymax>71</ymax>
+        </bndbox>
+    </object>
+</annotation>

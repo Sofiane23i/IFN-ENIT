@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<file_name>ae78_034</file_name>
+		<Segm_Area1>64-75</Segm_Area1>
+		<Segm_Area2>87-126</Segm_Area2>
+		<Segm_Area3>136-138</Segm_Area3>
+		<Segm_Area4>151-174</Segm_Area4>
+		<Segm_Area5>283-287</Segm_Area5>
+		<Segm_Area6>300-307</Segm_Area6>
+		<Segm_Area7>317-341</Segm_Area7>
+		<Segm_Area8>423</Segm_Area8>
+		<Segm_Area9>435-448</Segm_Area9>
+		<Segm_Area10>471-473</Segm_Area10>
+	</record>
+	<record/>
+</root>

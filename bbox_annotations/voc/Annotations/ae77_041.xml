@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+    <folder>images</folder>
+    <filename>ae77_041.jpg</filename>
+    <size>
+        <width>441</width>
+        <height>89</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>0</ymin>
+            <xmax>74</xmax>
+            <ymax>88</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>177</xmin>
+            <ymin>28</ymin>
+            <xmax>201</xmax>
+            <ymax>88</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>428</xmin>
+            <ymin>35</ymin>
+            <xmax>440</xmax>
+            <ymax>88</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+    <folder>images</folder>
+    <filename>ae78_006.jpg</filename>
+    <size>
+        <width>171</width>
+        <height>85</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>14</ymin>
+            <xmax>91</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>117</xmin>
+            <ymin>0</ymin>
+            <xmax>140</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>152</xmin>
+            <ymin>21</ymin>
+            <xmax>170</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+</annotation>

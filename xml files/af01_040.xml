@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<file_name>af01_040</file_name>
+		<Segm_Area1>60-94</Segm_Area1>
+		<Segm_Area2>105</Segm_Area2>
+		<Segm_Area3>133-169</Segm_Area3>
+		<Segm_Area4>199-214</Segm_Area4>
+		<Segm_Area5>227-245</Segm_Area5>
+		<Segm_Area6>259-293</Segm_Area6>
+		<Segm_Area7>386-427</Segm_Area7>
+		<Segm_Area8>440-458</Segm_Area8>
+	</record>
+	<record/>
+</root>

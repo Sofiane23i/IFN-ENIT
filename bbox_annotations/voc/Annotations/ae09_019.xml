@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+    <folder>images</folder>
+    <filename>ae09_019.jpg</filename>
+    <size>
+        <width>241</width>
+        <height>82</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>32</ymin>
+            <xmax>33</xmax>
+            <ymax>81</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>71</xmin>
+            <ymin>0</ymin>
+            <xmax>85</xmax>
+            <ymax>81</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>231</xmin>
+            <ymin>45</ymin>
+            <xmax>240</xmax>
+            <ymax>65</ymax>
+        </bndbox>
+    </object>
+</annotation>

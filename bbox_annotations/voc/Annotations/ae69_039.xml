@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+    <folder>images</folder>
+    <filename>ae69_039.jpg</filename>
+    <size>
+        <width>167</width>
+        <height>85</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>19</ymin>
+            <xmax>55</xmax>
+            <ymax>82</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>85</xmin>
+            <ymin>0</ymin>
+            <xmax>108</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>X</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>158</xmin>
+            <ymin>43</ymin>
+            <xmax>166</xmax>
+            <ymax>79</ymax>
+        </bndbox>
+    </object>
+</annotation>

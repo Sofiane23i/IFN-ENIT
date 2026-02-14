@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<file_name>ae26_028</file_name>
+		<Segm_Area1>105</Segm_Area1>
+		<Segm_Area2>145-167</Segm_Area2>
+		<Segm_Area3>180-195</Segm_Area3>
+		<Segm_Area4>232-243</Segm_Area4>
+		<Segm_Area5>250-266</Segm_Area5>
+		<Segm_Area6>275-325</Segm_Area6>
+		<Segm_Area7>351-359</Segm_Area7>
+		<Segm_Area8>405-436</Segm_Area8>
+	</record>
+	<record/>
+</root>

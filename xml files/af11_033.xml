@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<file_name>af11_033</file_name>
+		<Segm_Area1>31-51</Segm_Area1>
+		<Segm_Area2>79</Segm_Area2>
+		<Segm_Area3>94</Segm_Area3>
+		<Segm_Area4>116</Segm_Area4>
+		<Segm_Area5>150-213</Segm_Area5>
+		<Segm_Area6>251-258</Segm_Area6>
+		<Segm_Area7>269-286</Segm_Area7>
+	</record>
+	<record/>
+</root>

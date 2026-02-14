@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<file_name>ae21_044</file_name>
+		<Segm_Area1>46-64</Segm_Area1>
+		<Segm_Area2>71-95</Segm_Area2>
+		<Segm_Area3>112-134</Segm_Area3>
+		<Segm_Area4>172-187</Segm_Area4>
+		<Segm_Area5>199-227</Segm_Area5>
+		<Segm_Area6>279-300</Segm_Area6>
+		<Segm_Area7>308-314</Segm_Area7>
+		<Segm_Area8>351-374</Segm_Area8>
+		<Segm_Area9>402-424</Segm_Area9>
+		<Segm_Area10>446-458</Segm_Area10>
+		<Segm_Area11>468-479</Segm_Area11>
+	</record>
+	<record/>
+</root>

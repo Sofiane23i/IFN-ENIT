@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<file_name>af10_052</file_name>
+		<Segm_Area1>70-71</Segm_Area1>
+		<Segm_Area2>80-94</Segm_Area2>
+		<Segm_Area3>110</Segm_Area3>
+		<Segm_Area4>129</Segm_Area4>
+		<Segm_Area5>143-164</Segm_Area5>
+		<Segm_Area6>215</Segm_Area6>
+		<Segm_Area7>221-231</Segm_Area7>
+		<Segm_Area8>244-283</Segm_Area8>
+		<Segm_Area9>344</Segm_Area9>
+		<Segm_Area10>349-376</Segm_Area10>
+		<Segm_Area11>390-418</Segm_Area11>
+	</record>
+	<record/>
+</root>
