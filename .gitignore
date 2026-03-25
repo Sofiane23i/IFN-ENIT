@@ -1,3 +1,6 @@
 charann/
 annotated_images/
 extracted_annotations/
+Annotations/
+Annotations_xml/
+runs/
